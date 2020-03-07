@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-29 22:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: youlazy_app/templates/403.html:10
+msgid "Возможно у Вас недостаточно прав, для просмотра этой страницы"
+msgstr ""
+
+#: youlazy_app/templates/404.html:16
+msgid "Страница не найдена"
+msgstr ""
+
+#: youlazy_app/templates/404.html:17
+msgid "Данная страница не найдена в системе."
+msgstr ""
+
+#: youlazy_app/templates/404.html:20
+msgid "Перейти на главную страницу"
+msgstr ""
+
+#: youlazy_app/templates/500.html:13
+#: youlazy_app/templates/profile/bind_social_networks.html:20
+msgid "Произошла ошибка"
+msgstr ""
+
+#: youlazy_app/templates/500.html:14
+msgid ""
+"Не волнуйтесь, Ваши данные в безопасности. Наши специалисты уже работают над "
+"решением этой проблемы!"
+msgstr ""
+
+#: youlazy_app/templates/add_opinion_about_creator.html:10
+msgid "Оставьте отзыв о заказчике"
+msgstr ""
+
+#: youlazy_app/templates/add_opinion_about_creator.html:13
+#: youlazy_app/templates/add_opinion_about_performer.html:13
+msgid "к заданию"
+msgstr ""
+
