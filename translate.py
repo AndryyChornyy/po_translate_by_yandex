@@ -6,7 +6,7 @@ import json
 
 lang_to = 'ja'
 key = ""
-file_to_translate = 'django.po'
+file_to_translate = 'test.po'
 
 
 def do_translation(text):
